@@ -13,18 +13,18 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "mdshofiq383738@gmail.com",
+    "PASSWORD": "xxxxzzzz12",
     "OTPKEY": "",
     "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
-    "PREFIX": "/",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "100000478146113",
+        "61583786288861",
         "61576520552554",
         "61550035211214"
     ],
     "NDH": [
-        "100000478146113"
+        "61583786288861"
     ],
     "DATABASE": {
         "sqlite": {
